@@ -1,2 +1,2 @@
 # demo-portfolio
-A demo website for learn github 
+A demo website only for learn github 
